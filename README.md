@@ -54,17 +54,6 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=faizank789&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=808A98&currStreakNum=C9D1D9&sideNums=C9D1D9" width="70%" alt="GitHub Contribution Streak"/>
 </p>
 
-<h3 align="center">📈 CONTRIBUTION GRAPH</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizank789&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizank789&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-
 ## 🏆 Certifications
 
 <p align="center">

@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 ![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:00D4FF,70:7C3AED,100:EC4899&height=220&section=header&text=Faizan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20SRE&descAlignY=58&descSize=18)
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=Automation+%26+Self-Healing+Infrastructure;Cloud+Cost+Optimization+%26+AWS;EKS+%2B+Karpenter+%3D+Lower+EC2+Spend;Zero-Downtime+Migrations+%26+SRE;Infrastructure+as+Code+%26+CI%2FCD;Observability+%26+Production+Reliability" alt="My interests" />
 
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 - 🤖 Building automation to reduce manual operations and improve reliability.
 - 🚀 Focused on scalable infrastructure, observability, and zero-downtime deployments.
 
-> `Automate everything. Optimize relentlessly. Engineer for reliability.`
+                                                                                       > `Automate everything. Optimize relentlessly. Engineer for reliability.`
 
 
 ## 🏆 Certifications

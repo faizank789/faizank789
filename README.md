@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🤖 Building automation to reduce manual operations and improve reliability.
 - 🚀 Focused on scalable infrastructure, observability, and zero-downtime deployments.
 
-                                                                                       > `Automate everything. Optimize relentlessly. Engineer for reliability.`
+                              > `Automate everything. Optimize relentlessly. Engineer for reliability.`
 
 
 ## 🏆 Certifications

@@ -53,6 +53,33 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=linux,jenkins,git,github,powershell,prometheus,grafana,elasticsearch&theme=dark&perline=8" alt="Linux, Jenkins, Git, GitHub, PowerShell, Prometheus, Grafana, Elasticsearch" />
 </p>
 
+
+
+<!-- CYBERPUNK CYAN GITHUB DASHBOARD -->
+
+<h2 align="center">⚡ GITHUB DASHBOARD ⚡</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=808A98&currStreakNum=C9D1D9&sideNums=C9D1D9" width="70%" alt="GitHub Contribution Streak"/>
+</p>
+
+<h3 align="center">📈 CONTRIBUTION GRAPH</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=003B5C&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+
+
 ---
 
 ## Find Me

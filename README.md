@@ -30,17 +30,6 @@ Here are some ideas to get you started:
 
 > `Automate everything. Optimize relentlessly. Engineer for reliability.`
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,bash,aws,terraform,kubernetes,docker,ansible&theme=dark&perline=8" alt="Go, Java, Bash, AWS, Terraform, Kubernetes, Docker, Ansible" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,jenkins,git,github,powershell,prometheus,grafana,elasticsearch&theme=dark&perline=8" alt="Linux, Jenkins, Git, GitHub, PowerShell, Prometheus, Grafana, Elasticsearch" />
-</p>
-
-
 <!-- ⚡ CYBERPUNK CYAN GITHUB DASHBOARD -->
 
 <h2 align="center">⚡ GITHUB DASHBOARD ⚡</h2>
@@ -64,6 +53,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tigera-Certified_Calico_Operator_L1-00AEEF?style=for-the-badge" alt="Tigera Certified Calico Operator Level 1" />
   <img src="https://img.shields.io/badge/Gemini-Enterprise_Deployment-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Deployment" />
   <img src="https://img.shields.io/badge/OpenAI-Technical_Practitioner-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Technical Practitioner" />
+</p>
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,bash,aws,terraform,kubernetes,docker,ansible&theme=dark&perline=8" alt="Go, Java, Bash, AWS, Terraform, Kubernetes, Docker, Ansible" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,jenkins,git,github,powershell,prometheus,grafana,elasticsearch&theme=dark&perline=8" alt="Linux, Jenkins, Git, GitHub, PowerShell, Prometheus, Grafana, Elasticsearch" />
 </p>
 
 ---

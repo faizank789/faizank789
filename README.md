@@ -18,3 +18,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+---
+
+## `find me`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizan--khan/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:faizank789@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:00D4FF,70:7C3AED,100:EC4899&height=100&section=footer"
+  width="100%"
+/>

@@ -22,6 +22,29 @@ Here are some ideas to get you started:
 -->
 
 
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Professional" />
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator" />
+  <img src="https://img.shields.io/badge/Tigera-Certified_Calico_Operator_L1-00AEEF?style=for-the-badge" alt="Tigera Certified Calico Operator Level 1" />
+  <img src="https://img.shields.io/badge/Gemini-Enterprise_Deployment-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Deployment" />
+  <img src="https://img.shields.io/badge/OpenAI-Technical_Practitioner-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Technical Practitioner" />
+</p>
+
+### 📜 Certification Details
+
+- **AWS Solutions Architect – Professional** — Amazon Web Services
+- **Certified Kubernetes Administrator (CKA)** — The Linux Foundation
+- **AWS Solutions Architect – Associate** — Amazon Web Services
+- **Red Hat Certified System Administrator (RHCSA)** — Red Hat
+- **Certified Calico Operator: Level 1** — Tigera Honor Code Certificate
+- **Gemini Enterprise Deployment** — Gemini
+- **Technical Practitioner** — OpenAI
+
+
 
 
 ---
@@ -32,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/faizan--khan/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:faizank789@gmail.com">
+  <a href="mailto:faizan">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/YOUR-USERNAME">

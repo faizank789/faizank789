@@ -55,34 +55,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=linux,jenkins,git,github,powershell,prometheus,grafana,elasticsearch&theme=dark&perline=8" alt="Linux, Jenkins, Git, GitHub, PowerShell, Prometheus, Grafana, Elasticsearch" />
 </p>
 
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Professional" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" />
-  <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator" />
-  <img src="https://img.shields.io/badge/Tigera-Calico_Operator_L1-00AEEF?style=for-the-badge" alt="Tigera Calico Operator Level 1" />
-  <img src="https://img.shields.io/badge/Gemini-Enterprise_Deployment-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Deployment" />
-  <img src="https://img.shields.io/badge/OpenAI-Technical_Practitioner-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Technical Practitioner" />
-</p>
-
-## 🚀 What I'm Interested In
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=Automation+%26+Self-Healing+Infrastructure;Cloud+Cost+Optimization+%26+AWS;EKS+%2B+Karpenter+%3D+Lower+EC2+Spend;Zero-Downtime+Migrations+%26+SRE;Infrastructure+as+Code+%26+CI%2FCD;Observability+%26+Production+Reliability" alt="Automation, cloud cost optimization, AWS, Kubernetes, and SRE" />
-</p>
-
-- 🤖 **Automation:** Self-healing infrastructure and reduced manual effort.
-- 💰 **Cost Optimization:** Efficient AWS resource utilization and lower cloud spending.
-- ☁️ **Cloud & Kubernetes:** AWS, EKS, Kubernetes, and Karpenter autoscaling.
-- 🔄 **Infrastructure as Code:** Terraform, Ansible, and CI/CD automation.
-- 📊 **Observability & SRE:** Monitoring, alerting, incident management, and reliability.
-- 🚀 **Zero-Downtime Migrations:** Moving on-premises workloads to AWS with minimal disruption.
-
-> 💡 **My philosophy:** Automate what repeats. Optimize what costs. Build systems that heal themselves.
-
-
 
 ---
 

@@ -34,17 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenAI-Technical_Practitioner-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Technical Practitioner" />
 </p>
 
-### 📜 Certification Details
-
-- **AWS Solutions Architect – Professional** — Amazon Web Services
-- **Certified Kubernetes Administrator (CKA)** — The Linux Foundation
-- **AWS Solutions Architect – Associate** — Amazon Web Services
-- **Red Hat Certified System Administrator (RHCSA)** — Red Hat
-- **Certified Calico Operator: Level 1** — Tigera Honor Code Certificate
-- **Gemini Enterprise Deployment** — Gemini
-- **Technical Practitioner** — OpenAI
-
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">

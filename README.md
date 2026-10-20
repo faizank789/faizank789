@@ -31,15 +31,6 @@ Here are some ideas to get you started:
 
 > `Automate everything. Optimize relentlessly. Engineer for reliability.`
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,bash,aws,terraform,kubernetes,docker,ansible,linux,jenkins,git,github&theme=dark&perline=6" alt="DevOps technology stack"/>
-</p>
-
-
 
 ## 🏆 Certifications
 

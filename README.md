@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-## `find . -iname "faizan"  profiles/`
+## Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan--khan/">

@@ -54,6 +54,25 @@ Here are some ideas to get you started:
 </p>
 
 
+<!-- CYBERPUNK CYAN HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B5C,100:00D4FF&height=200&section=header&text=FAIZAN%20KHAN&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20%7C%20SRE%20%7C%20CLOUD%20AUTOMATION&descAlignY=60&descSize=16" width="100%" alt="Cyberpunk Cyan DevOps header"/>
+</p>
+
+<!-- ANIMATED STATUS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=800&lines=Status%3A+Automating+Everything+%E2%9A%A1;Interested+in+Automation+%26+Cost+Optimization;Building+Reliable+Cloud+Infrastructure;AWS+%7C+Kubernetes+%7C+Terraform+%7C+SRE" alt="My status in Cyberpunk Cyan"/>
+</p>
+
+<!-- CYBERPUNK BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Automation"/>
+  <img src="https://img.shields.io/badge/FOCUS-COST_OPTIMIZATION-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Cost Optimization"/>
+  <img src="https://img.shields.io/badge/ROLE-DEVOPS_%7C_SRE-00D4FF?style=for-the-badge&labelColor=0D1117" alt="DevOps and SRE"/>
+</p>
+
+
+
 ---
 
 ## Find Me

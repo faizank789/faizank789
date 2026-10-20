@@ -10,6 +10,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030B08,30:00FF88,70:00C853,100:12372A&height=220&section=header&text=Faizan%20Khan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20SRE&descAlignY=58&descSize=18" width="100%" alt="Faizan Khan - Matrix Green DevOps header"/>
+</p>
+
+
+
 <!--
 **faizank789/faizank789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
